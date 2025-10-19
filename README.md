@@ -28,6 +28,4 @@ This Power BI dashboard provides insights from a survey of data professionals, i
 3. Explore different report pages and visuals.
 
 ## 📝 Author
-**Shashank AV**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+**Shashank AV** 
